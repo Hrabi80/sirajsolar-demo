@@ -27,7 +27,7 @@ export const companyDetails = {
 }
 
 export const socialLinks = [
-  { label: "Facebook", href: "https://facebook.com" },
-  { label: "LinkedIn", href: "https://linkedin.com" },
-  { label: "Instagram", href: "https://instagram.com" },
+  { label: "Facebook", href: "https://www.facebook.com/profile.php?id=61581716813453" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/company/siraj-solar/" },
+  { label: "Instagram", href: "https://www.instagram.com/siraj.solar/" },
 ] as const

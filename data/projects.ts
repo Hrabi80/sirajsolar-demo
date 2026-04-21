@@ -48,9 +48,9 @@ export const projects: Project[] = [
     title: "Hybrid System for Private Clinic",
     category: "Hybrid",
     location: "Nabeul, Tunisia",
-    capacity: "30 kWp + LiFePO₄",
+    capacity: "600 kWp + LiFePO₄",
     year: "2025",
-    image: "/images/project-hybrid.jpg",
+    image: "/images/project-hybrid.webp",
     summary:
       "Medical-grade hybrid backup solution combining solar generation, lithium storage and seamless grid switching for uninterrupted operations.",
   },
