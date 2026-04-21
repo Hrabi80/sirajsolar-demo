@@ -49,10 +49,10 @@ export default function AboutPage() {
               About Siraj Solar
             </span>
             <h1 className="mt-4 text-balance text-5xl font-semibold leading-tight text-navy md:text-6xl">
-              Specialized solar engineering expertise from Tunisia.
+              Specialized solar engineering expertise from Africa.
             </h1>
             <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
-              We are a specialized engineering and consulting center focused on solar photovoltaic
+              We are a specialized engineering and consulting company focused on solar photovoltaic
               and energy storage systems. We support developers, companies, and engineers in
               designing, analyzing, and optimizing energy projects.
             </p>
