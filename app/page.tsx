@@ -166,7 +166,7 @@ export default function HomePage() {
               <Link href="/projects">See projects</Link>
             </Button>
           </div>
-
+    {/* Stats Section 
           <div className="mt-20 grid grid-cols-2 gap-px overflow-hidden rounded-2xl border border-white/10 bg-white/5 backdrop-blur md:grid-cols-4">
             {stats.map((stat) => (
               <div key={stat.label} className="bg-navy/30 px-6 py-6 text-center">
@@ -176,7 +176,7 @@ export default function HomePage() {
                 <div className="mt-1 text-xs uppercase tracking-wider text-white/60">{stat.label}</div>
               </div>
             ))}
-          </div>
+          </div>*/}
         </div>
       </section>
 
